@@ -22,4 +22,4 @@ Um pouco mais sobre Priscila:
 <br>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianoleitedasilva&show_icons=true&locale=en" alt="Adriano Leite da Silva" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=preissilva&show_icons=true&locale=en" alt="Priscila Reis Silva Lima de Oliveira" />
